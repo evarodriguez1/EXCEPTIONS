@@ -1,0 +1,2 @@
+# EXCEPTIONS
+Ejercicios de excepciones
